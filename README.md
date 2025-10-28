@@ -1,4 +1,4 @@
-DOI registered for Database-JQPMC0014 via Crossref: https://doi.org/10.58473/ChengZhuSci0002
+DOI registered for Database-JAES0011 via Crossref: https://doi.org/10.58473/ChengZhuSci0002
 
 Reference: Liu Huan (2024). Exploring the formation of ocean current and the underlying hydrology. Journal of Astronomy and Earth Sciences (ISSN2958-4043). 2024 (12). https://doi.org/10.58473/JAES0011
 
