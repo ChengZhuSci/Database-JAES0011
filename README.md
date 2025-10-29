@@ -1,6 +1,6 @@
 DOI registered for Database-JAES0011 via Crossref: https://doi.org/10.58473/ChengZhuSci0002
 
-The Database/Dataset DOI registered via ChengZhu Science can be retrieval from international databases, including Web of Science, Scilit database, etc.  
+The Database/Dataset DOI registered via ChengZhu Science can be retrieval from international databases, including Web of Science, Scilit database, PlumX, etc.  
 
 Reference: Liu Huan (2024). Exploring the formation of ocean current and the underlying hydrology. Journal of Astronomy and Earth Sciences (ISSN2958-4043). 2024 (12). https://doi.org/10.58473/JAES0011
 
